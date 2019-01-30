@@ -1,0 +1,23 @@
+
+int bitAnd(int, int);
+int test_bitAnd(int, int);
+int allEvenBits();
+int test_allEvenBits();
+int bitMask(int, int);
+int test_bitMask(int, int);
+int replaceByte(int, int, int);
+int test_replaceByte(int, int, int);
+int bitParity(int);
+int test_bitParity(int);
+int tmin();
+int test_tmin();
+int isNegative(int);
+int test_isNegative(int);
+int addOK(int, int);
+int test_addOK(int, int);
+int absVal(int);
+int test_absVal(int);
+unsigned float_neg(unsigned);
+unsigned test_float_neg(unsigned);
+unsigned float_half(unsigned);
+unsigned test_float_half(unsigned);
